@@ -453,3 +453,19 @@ This is a proprietary project. For internal development:
 **Status:** ✅ Ready for Launch  
 **Version:** 1.0.0  
 **Last Updated:** January 15, 2024
+
+## 🌐 Website
+
+The marketing website is included in the `website/` directory.
+
+**Live Site:** https://navi-website.manus.space
+
+**Local Development:**
+```bash
+cd website/client
+npm install
+npm run dev
+```
+
+See `website/README.md` for full documentation.
+
